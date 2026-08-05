@@ -8,11 +8,11 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnamulHaque68)
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-enamul-haque-4a97111a7)
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enamul.dustat67@gmail.com)
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md.enamul._haque/)
-[![Facebook](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Md.Enamul.Haque.DuStat67)
+[![GitHub](https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnamulHaque68)
+[![LinkedIn](https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-enamul-haque-4a97111a7)
+[![Email](https://img.shields.io/badge/%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=enamul.dustat67@gmail.com)
+[![Instagram](https://img.shields.io/badge/%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md.enamul._haque/)
+[![Facebook](https://img.shields.io/badge/%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Md.Enamul.Haque.DuStat67)
 
 </div>
 
@@ -92,11 +92,11 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnamulHaque68)
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-enamul-haque-4a97111a7)
-[![Gmail](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enamul.dustat67@gmail.com)
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md.enamul._haque/)
-[![Facebook](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Md.Enamul.Haque.DuStat67)
+[![GitHub](https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnamulHaque68)
+[![LinkedIn](https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-enamul-haque-4a97111a7)
+[![Gmail](https://img.shields.io/badge/%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=enamul.dustat67@gmail.com)
+[![Instagram](https://img.shields.io/badge/%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md.enamul._haque/)
+[![Facebook](https://img.shields.io/badge/%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Md.Enamul.Haque.DuStat67)
 
 </div>
 
